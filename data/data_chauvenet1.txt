@@ -1,0 +1,86 @@
+pass - 0 mean : 0.50 std : 0.01 N : 250
+pass - 1 mean : 0.50 std : 0.01 N : 234
+pass - 2 mean : 0.50 std : 0.01 N : 220
+pass - 3 mean : 0.50 std : 0.01 N : 206
+pass - 4 mean : 0.50 std : 0.01 N : 193
+pass - 5 mean : 0.50 std : 0.01 N : 182
+pass - 6 mean : 0.50 std : 0.01 N : 172
+pass - 7 mean : 0.50 std : 0.01 N : 162
+pass - 8 mean : 0.50 std : 0.01 N : 152
+pass - 9 mean : 0.50 std : 0.01 N : 143
+pass - 10 mean : 0.50 std : 0.01 N : 134
+pass - 11 mean : 0.50 std : 0.01 N : 126
+pass - 12 mean : 0.50 std : 0.01 N : 119
+pass - 13 mean : 0.50 std : 0.01 N : 113
+pass - 14 mean : 0.50 std : 0.01 N : 108
+pass - 15 mean : 0.50 std : 0.02 N : 103
+pass - 16 mean : 0.50 std : 0.02 N : 98
+pass - 17 mean : 0.50 std : 0.02 N : 93
+pass - 18 mean : 0.50 std : 0.02 N : 88
+pass - 19 mean : 0.50 std : 0.02 N : 83
+pass - 20 mean : 0.50 std : 0.02 N : 78
+pass - 21 mean : 0.50 std : 0.02 N : 75
+pass - 22 mean : 0.50 std : 0.02 N : 72
+pass - 23 mean : 0.50 std : 0.02 N : 69
+pass - 24 mean : 0.50 std : 0.02 N : 66
+pass - 25 mean : 0.50 std : 0.02 N : 63
+pass - 26 mean : 0.50 std : 0.02 N : 60
+pass - 27 mean : 0.50 std : 0.02 N : 57
+pass - 28 mean : 0.50 std : 0.02 N : 56
+pass - 29 mean : 0.50 std : 0.02 N : 55
+pass - 30 mean : 0.50 std : 0.02 N : 54
+pass - 31 mean : 0.50 std : 0.02 N : 53
+pass - 32 mean : 0.50 std : 0.02 N : 52
+pass - 33 mean : 0.50 std : 0.02 N : 51
+pass - 34 mean : 0.50 std : 0.02 N : 50
+pass - 35 mean : 0.50 std : 0.02 N : 49
+pass - 36 mean : 0.50 std : 0.02 N : 48
+pass - 37 mean : 0.50 std : 0.02 N : 47
+pass - 38 mean : 0.50 std : 0.02 N : 46
+pass - 39 mean : 0.50 std : 0.02 N : 45
+pass - 40 mean : 0.50 std : 0.02 N : 44
+pass - 41 mean : 0.50 std : 0.02 N : 43
+pass - 42 mean : 0.50 std : 0.02 N : 42
+pass - 43 mean : 0.50 std : 0.02 N : 41
+pass - 44 mean : 0.50 std : 0.02 N : 40
+pass - 45 mean : 0.50 std : 0.02 N : 39
+pass - 46 mean : 0.50 std : 0.00 N : 38
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+Elapsed time: 0.000000h 0.000000m 34.000000s 126.000000ms

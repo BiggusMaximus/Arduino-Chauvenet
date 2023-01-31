@@ -1,0 +1,98 @@
+pass - 0 mean : 0.50 std : 0.01 N : 250
+pass - 1 mean : 0.50 std : 0.01 N : 241
+pass - 2 mean : 0.50 std : 0.01 N : 233
+pass - 3 mean : 0.50 std : 0.01 N : 225
+pass - 4 mean : 0.50 std : 0.01 N : 217
+pass - 5 mean : 0.50 std : 0.01 N : 209
+pass - 6 mean : 0.50 std : 0.01 N : 201
+pass - 7 mean : 0.50 std : 0.01 N : 195
+pass - 8 mean : 0.50 std : 0.01 N : 190
+pass - 9 mean : 0.50 std : 0.01 N : 185
+pass - 10 mean : 0.50 std : 0.01 N : 180
+pass - 11 mean : 0.50 std : 0.01 N : 175
+pass - 12 mean : 0.50 std : 0.01 N : 170
+pass - 13 mean : 0.50 std : 0.01 N : 165
+pass - 14 mean : 0.50 std : 0.01 N : 162
+pass - 15 mean : 0.50 std : 0.01 N : 159
+pass - 16 mean : 0.50 std : 0.01 N : 156
+pass - 17 mean : 0.50 std : 0.01 N : 153
+pass - 18 mean : 0.50 std : 0.01 N : 150
+pass - 19 mean : 0.50 std : 0.01 N : 147
+pass - 20 mean : 0.50 std : 0.01 N : 144
+pass - 21 mean : 0.50 std : 0.01 N : 141
+pass - 22 mean : 0.50 std : 0.01 N : 138
+pass - 23 mean : 0.50 std : 0.01 N : 135
+pass - 24 mean : 0.50 std : 0.01 N : 132
+pass - 25 mean : 0.50 std : 0.01 N : 129
+pass - 26 mean : 0.50 std : 0.01 N : 126
+pass - 27 mean : 0.50 std : 0.01 N : 123
+pass - 28 mean : 0.50 std : 0.01 N : 120
+pass - 29 mean : 0.50 std : 0.01 N : 117
+pass - 30 mean : 0.50 std : 0.01 N : 114
+pass - 31 mean : 0.50 std : 0.01 N : 111
+pass - 32 mean : 0.50 std : 0.01 N : 108
+pass - 33 mean : 0.50 std : 0.01 N : 105
+pass - 34 mean : 0.50 std : 0.01 N : 102
+pass - 35 mean : 0.50 std : 0.01 N : 99
+pass - 36 mean : 0.50 std : 0.01 N : 96
+pass - 37 mean : 0.50 std : 0.01 N : 93
+pass - 38 mean : 0.50 std : 0.01 N : 90
+pass - 39 mean : 0.50 std : 0.01 N : 87
+pass - 40 mean : 0.50 std : 0.01 N : 84
+pass - 41 mean : 0.50 std : 0.01 N : 81
+pass - 42 mean : 0.50 std : 0.01 N : 78
+pass - 43 mean : 0.50 std : 0.01 N : 75
+pass - 44 mean : 0.50 std : 0.01 N : 72
+pass - 45 mean : 0.50 std : 0.01 N : 69
+pass - 46 mean : 0.50 std : 0.01 N : 66
+pass - 47 mean : 0.50 std : 0.01 N : 63
+pass - 48 mean : 0.50 std : 0.01 N : 60
+pass - 49 mean : 0.50 std : 0.01 N : 57
+pass - 50 mean : 0.50 std : 0.01 N : 54
+pass - 51 mean : 0.50 std : 0.01 N : 51
+pass - 52 mean : 0.50 std : 0.01 N : 48
+pass - 53 mean : 0.50 std : 0.01 N : 45
+pass - 54 mean : 0.50 std : 0.01 N : 42
+pass - 55 mean : 0.50 std : 0.00 N : 41
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+0.50
+Elapsed time: 0.000000h 0.000000m 49.000000s 678.000000ms
