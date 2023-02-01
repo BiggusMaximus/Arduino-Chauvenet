@@ -16,16 +16,16 @@ void measure_times(unsigned long elapsed)
 
     Serial.print("Raw elapsed time: ");
     Serial.println(elapsed);
-    Serial.print("Elapsed time: ");
-    Serial.print(h, 0);
-    Serial.print("h ");
-    Serial.print(m, 0);
-    Serial.print("m ");
-    Serial.print(s, 0);
-    Serial.print("s ");
-    Serial.print(ms, 0);
-    Serial.println("ms");
-    Serial.println();
+    // Serial.print("Elapsed time: ");
+    // Serial.print(h, 0);
+    // Serial.print("h ");
+    // Serial.print(m, 0);
+    // Serial.print("m ");
+    // Serial.print(s, 0);
+    // Serial.print("s ");
+    // Serial.print(ms, 0);
+    // Serial.println("ms");
+    // Serial.println();
     // printf("Raw elapsed time: %f \n", elapsed);
     // printf("Elapsed time: %fh %fm %fs %fms", h, m, s, ms);
 }

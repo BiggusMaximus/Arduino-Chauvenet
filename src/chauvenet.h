@@ -36,8 +36,7 @@ bool chauvenet(float x, float mean, float std, int n)
     prob = erfc_diy(temp);
 
     // printf("%f prob %f ", x, prob);
-    // printf("prob diy %f ", prob_diy);
-    printf("\n");
+    // Serial.println("prob diy " + String(prob));
     if (prob < criterion)
     {
         return true;

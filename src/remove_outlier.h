@@ -28,7 +28,7 @@ int *find_index_outlier(float arr[], float std, float mean, int n)
 void remove_outliers(float arr[], float std, float mean, int n)
 {
     int *index_outlier;
-    static float array_chauvenet[250];
+    static float array_chauvenet[50];
     float *data;
     int count, pass = 0;
     int outlier_found = counting_outlier(arr, mean, std, n);
@@ -70,4 +70,5 @@ void remove_outliers(float arr[], float std, float mean, int n)
         array_chauvenet[i] = arr[i];
         Serial.println(array_chauvenet[i], 2);
     }
+    Serial.println("end");
 }

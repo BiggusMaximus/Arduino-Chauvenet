@@ -1,0 +1,24 @@
+mean : 5.18 std : 0.12
+pass - 0 mean : 5.18 std : 0.12 N : 50
+pass - 1 mean : 5.15 std : 0.10 N : 43
+pass - 2 mean : 5.14 std : 0.09 N : 40
+pass - 3 mean : 5.13 std : 0.08 N : 37
+pass - 4 mean : 5.12 std : 0.08 N : 34
+pass - 5 mean : 5.10 std : 0.07 N : 31
+pass - 6 mean : 5.09 std : 0.06 N : 27
+pass - 7 mean : 5.08 std : 0.05 N : 25
+pass - 8 mean : 5.07 std : 0.05 N : 21
+pass - 9 mean : 5.05 std : 0.04 N : 18
+pass - 10 mean : 5.04 std : 0.03 N : 15
+pass - 11 mean : 5.03 std : 0.02 N : 12
+pass - 12 mean : 5.02 std : 0.01 N : 9
+pass - 13 mean : 5.01 std : 0.00 N : 6
+5.01
+5.01
+5.01
+5.01
+5.01
+5.01
+_\�@�o�@
+0
+1094
