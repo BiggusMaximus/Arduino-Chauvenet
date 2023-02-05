@@ -1,7 +1,7 @@
 #include "math.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <Arduino.h>
+// #include <Arduino.h>
 
 void measure_times(unsigned long elapsed)
 {
@@ -14,8 +14,8 @@ void measure_times(unsigned long elapsed)
     s = round(over / 1000);
     ms = over % 1000;
 
-    Serial.print("Raw elapsed time: ");
-    Serial.println(elapsed);
+    // Serial.print("Raw elapsed time: ");
+    // Serial.println(elapsed);
     // Serial.print("Elapsed time: ");
     // Serial.print(h, 0);
     // Serial.print("h ");
@@ -26,11 +26,11 @@ void measure_times(unsigned long elapsed)
     // Serial.print(ms, 0);
     // Serial.println("ms");
     // Serial.println();
-    // printf("Raw elapsed time: %f \n", elapsed);
-    // printf("Elapsed time: %fh %fm %fs %fms", h, m, s, ms);
+    printf("Raw elapsed time: %f \n", elapsed);
+    printf("Elapsed time: %fh %fm %fs %fms", h, m, s, ms);
 }
 
-// int main()
-// {
-//     measure_times(97860);
-// }
+int main()
+{
+    measure_times(10940);
+}

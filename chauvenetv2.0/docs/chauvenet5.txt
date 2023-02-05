@@ -1,0 +1,32 @@
+Iteration : 0  Outlier : 0  Forward : 0  Backward : 0
+Mean : 4.89 Std : 0.22 N : 100
+Iteration : 1  Outlier : 15  Forward : 6  Backward : 91
+Mean : 4.83 Std : 0.19 N : 85
+Iteration : 2  Outlier : 12  Forward : 6  Backward : 79
+Mean : 4.79 Std : 0.16 N : 73
+Iteration : 3  Outlier : 12  Forward : 6  Backward : 67
+Mean : 4.74 Std : 0.14 N : 61
+Iteration : 4  Outlier : 10  Forward : 5  Backward : 56
+Mean : 4.71 Std : 0.12 N : 51
+Iteration : 5  Outlier : 10  Forward : 5  Backward : 46
+Mean : 4.67 Std : 0.10 N : 41
+Iteration : 6  Outlier : 10  Forward : 5  Backward : 36
+Mean : 4.63 Std : 0.07 N : 31
+Iteration : 7  Outlier : 4  Forward : 2  Backward : 29
+Mean : 4.61 Std : 0.06 N : 27
+Iteration : 8  Outlier : 4  Forward : 2  Backward : 25
+Mean : 4.59 Std : 0.06 N : 23
+Iteration : 9  Outlier : 4  Forward : 2  Backward : 21
+Mean : 4.58 Std : 0.05 N : 19
+Iteration : 10  Outlier : 4  Forward : 2  Backward : 17
+Mean : 4.56 Std : 0.05 N : 15
+Iteration : 11  Outlier : 4  Forward : 2  Backward : 13
+Mean : 4.55 Std : 0.05 N : 11
+Iteration : 12  Outlier : 4  Forward : 2  Backward : 9
+Mean : 4.52 Std : 0.04 N : 7
+Iteration : 13  Outlier : 4  Forward : 2  Backward : 5
+Mean : 4.49 Std : 0.03 N : 3
+Iteration : 14  Outlier : 1  Forward : 0  Backward : 2
+Mean : 4.48 Std : 0.00 N : 2
+Raw elapsed time: 196
+Elapsed time: 0h 0m 0s 196ms

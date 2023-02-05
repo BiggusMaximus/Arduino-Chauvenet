@@ -25,8 +25,23 @@ float *data_describe(float arr[], int n)
     return data;
 }
 
-double zscore(double x, double mean, double std)
+float zscore(float x, float mean, float std)
 {
 
     return fabs(x - mean) / std;
+}
+
+float find_dmax(float arr[], float mean, float std, float n)
+{
+    Serial.println(arr[0]);
+    float dmax = zscore(arr[0], mean, std);
+    for (int i = 0; i < n; i++)
+    {
+        if (zscore(arr[i], mean, std) > dmax)
+        {
+            dmax = zscore(arr[i], mean, std);
+            Serial.println("Dmax : " + String(dmax));
+        }
+    }
+    return dmax;
 }

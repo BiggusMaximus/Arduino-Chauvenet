@@ -7,7 +7,7 @@ int counting_outlier(float arr[], float mean, float std, int n)
     float temp = 0;
     float prob;
     float criterion = 1.0 / (2 * n);
-
+    Serial.println("criterion : " + String(criterion));
     for (int i = 0; i < n; i++)
     {
         temp = zscore(arr[i], mean, std);
