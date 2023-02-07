@@ -18,6 +18,10 @@ void data_describe(float arr[], int n)
         var += pow(arr[i] - mean, 2);
     }
     standard_deviation = sqrt(var / (n - 1));
+    if (n == 1)
+    {
+        standard_deviation = 0;
+    }
     Serial.println("Mean : " + String(mean) + " Std : " + String(standard_deviation) + " N : " + String(n));
 }
 

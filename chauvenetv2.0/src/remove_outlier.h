@@ -36,3 +36,66 @@ void remove_outlier(float arr[], float mean, float std, int n)
     // Serial.println("outlier : " + String(count_outlier));
     // count_outlier = (SAMPLE_SIZE - backward) + forward - 1;
 }
+
+// float chauvenet_filter_mean()
+// {
+//     printArray(voltage_array, SAMPLE_SIZE);
+//     Serial.println("Iteration : " + String(count) + "  Outlier : " + String(count_outlier) + "  Forward : " + String(forward) + "  Backward : " + String(backward));
+//     quickSort(voltage_array, 0, SAMPLE_SIZE - 1);
+//     data_describe(voltage_array, SAMPLE_SIZE);
+//     // printArray(voltage_array, SAMPLE_SIZE);
+//     remove_outlier(voltage_array, mean, standard_deviation, SAMPLE_SIZE);
+//     slice(voltage_array, forward - 1, backward);
+
+//     count += 1;
+//     while (count_outlier != 0.0)
+//     {
+//         Serial.println("Iteration : " + String(count) + "  Outlier : " + String(count_outlier) + "  Forward : " + String(forward) + "  Backward : " + String(backward));
+//         data_describe(voltage_array, backward - forward);
+//         remove_outlier(voltage_array, mean, standard_deviation, backward - forward);
+//         slice(voltage_array, forward - 1, backward);
+//         count += 1;
+//         if (count_outlier == 0)
+//         {
+//             voltage_array[0] = '\0';
+//             break;
+//         }
+//         else
+//         {
+//             continue;
+//         }
+//     }
+// }
+
+// void call_chauvenet()
+// {
+//     printArray(voltage_array, SAMPLE_SIZE);
+//     Serial.println("Iteration : " + String(count) + "  Outlier : " + String(count_outlier) + "  Forward : " + String(forward) + "  Backward : " + String(backward));
+//     quickSort(voltage_array, 0, SAMPLE_SIZE - 1);
+//     data_describe(voltage_array, SAMPLE_SIZE);
+//     // printArray(voltage_array, SAMPLE_SIZE);
+//     remove_outlier(voltage_array, mean, standard_deviation, SAMPLE_SIZE);
+//     slice(voltage_array, forward - 1, backward);
+
+//     count += 1;
+//     while (count_outlier != 0.0)
+//     {
+//         Serial.println("Iteration : " + String(count) + "  Outlier : " + String(count_outlier) + "  Forward : " + String(forward) + "  Backward : " + String(backward));
+//         data_describe(voltage_array, backward - forward);
+//         remove_outlier(voltage_array, mean, standard_deviation, backward - forward);
+//         slice(voltage_array, forward - 1, backward);
+//         count += 1;
+//         if (count_outlier == 0)
+//         {
+//             voltage_array[0] = '\0';
+//             break;
+//         }
+//         else
+//         {
+//             continue;
+//         }
+//     }
+
+//     printArray(voltage_array, backward - forward);
+//     measure_times(t2 - t1);
+// }

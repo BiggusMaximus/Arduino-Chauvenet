@@ -14,7 +14,7 @@ void measure_times(unsigned long elapsed)
     s = int(over / 1000);
     ms = over % 1000;
 
-    Serial.print("Raw elapsed time: ");
+    Serial.print("\nRaw elapsed time: ");
     Serial.println(elapsed);
     Serial.print("Elapsed time: ");
     Serial.print(h, 0);

@@ -16,5 +16,5 @@ float *read_voltage_calibration_array(int pin, int n)
 }
 float read_voltage_calibration(int pin)
 {
-    return 0.06449091372411075 + 0.024386004366555764 * analogRead(pin);
+    return 0.06449091372411075 + 0.024386004366555764 * (float)analogRead(pin);
 }
